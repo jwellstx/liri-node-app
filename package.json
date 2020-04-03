@@ -1,0 +1,32 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "liri app",
+  "main": "keys.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core-util-is": "^1.0.2",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.1.0",
+    "jQuery": "^1.7.4",
+    "jquery": "^3.4.1",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwellstx/liri-node-app.git"
+  },
+  "author": "jwellstx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwellstx/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/jwellstx/liri-node-app#readme"
+}
