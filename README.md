@@ -12,7 +12,7 @@ Some other libraries that were used in developing this application were [fs](htt
 
 ## Demo
 
-![Commandline](/images/liri.gif) 
+![LIRI Demo](/images/liri.gif) 
 
 <br /><br />
 
@@ -50,3 +50,18 @@ movie-this,"Tommy Boy"
    5. Lastly, all commands and their outputs are logged in `log.txt`
 
 <br /><br />
+
+## Additonal Images
+<br />
+# movie-this
+![movie-this](/images/movie-this.PNG)
+<br />
+# spotify-this-song
+![spotify-this-song](/images/spotify-this-song.PNG)
+<br />
+# concert-this
+![concert-this](images/concert-this.PNG)
+<br />
+# do-what-it-says
+![do-what-it-says](/images/do-what-it-says.PNG)
+<br />
