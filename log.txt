@@ -1,0 +1,488 @@
+Executing concert-this with song option: Incubus
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Birmingham
+Location: Birmingham, 
+Date: 6/4/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Apollo Manchester
+Location: Manchester, 
+Date: 6/5/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Glasgow
+Location: Glasgow, 
+Date: 6/6/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Location: London, 
+Date: 6/8/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Location: London, 
+Date: 6/9/2020
+
+------------------------- Incubus ----------------------------
+Venue: Greenfield Festival
+Location: Interlaken, 
+Date: 6/11/2020
+
+------------------------- Incubus ----------------------------
+Venue: Porsche Arena
+Location: Stuttgart, 
+Date: 6/12/2020
+
+------------------------- Incubus ----------------------------
+Venue: I-Days Festival
+Location: Rho, 
+Date: 6/13/2020
+
+------------------------- Incubus ----------------------------
+Venue: Tivoli Vredenburg
+Location: Utrecht, 
+Date: 6/15/2020
+
+------------------------- Incubus ----------------------------
+Venue: LuxExpo The Box
+Location: Luxembourg, 
+Date: 6/16/2020
+
+
+
+Executing concert-this with song option: Incubus
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Birmingham
+Location: Birmingham, 
+Date: 6/4/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Apollo Manchester
+Location: Manchester, 
+Date: 6/5/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Glasgow
+Location: Glasgow, 
+Date: 6/6/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Location: London, 
+Date: 6/8/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Location: London, 
+Date: 6/9/2020
+
+------------------------- Incubus ----------------------------
+Venue: Greenfield Festival
+Location: Interlaken, 
+Date: 6/11/2020
+
+------------------------- Incubus ----------------------------
+Venue: Porsche Arena
+Location: Stuttgart, 
+Date: 6/12/2020
+
+------------------------- Incubus ----------------------------
+Venue: I-Days Festival
+Location: Rho, 
+Date: 6/13/2020
+
+------------------------- Incubus ----------------------------
+Venue: Tivoli Vredenburg
+Location: Utrecht, 
+Date: 6/15/2020
+
+------------------------- Incubus ----------------------------
+Venue: LuxExpo The Box
+Location: Luxembourg, 
+Date: 6/16/2020
+
+
+
+Executing concert-this with song option: Incubus
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Birmingham
+Date: 6/4/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Apollo Manchester
+Date: 6/5/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Glasgow
+Date: 6/6/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Date: 6/8/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Date: 6/9/2020
+
+------------------------- Incubus ----------------------------
+Venue: Greenfield Festival
+Date: 6/11/2020
+
+------------------------- Incubus ----------------------------
+Venue: Porsche Arena
+Date: 6/12/2020
+
+------------------------- Incubus ----------------------------
+Venue: I-Days Festival
+Date: 6/13/2020
+
+------------------------- Incubus ----------------------------
+Venue: Tivoli Vredenburg
+Date: 6/15/2020
+
+------------------------- Incubus ----------------------------
+Venue: LuxExpo The Box
+Date: 6/16/2020
+
+
+
+Executing concert-this with song option: Incubus
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Birmingham
+Location: 
+Date: 6/4/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Apollo Manchester
+Location: 
+Date: 6/5/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Glasgow
+Location: 
+Date: 6/6/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Location: 
+Date: 6/8/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Location: 
+Date: 6/9/2020
+
+------------------------- Incubus ----------------------------
+Venue: Greenfield Festival
+Location: 
+Date: 6/11/2020
+
+------------------------- Incubus ----------------------------
+Venue: Porsche Arena
+Location: 
+Date: 6/12/2020
+
+------------------------- Incubus ----------------------------
+Venue: I-Days Festival
+Location: 
+Date: 6/13/2020
+
+------------------------- Incubus ----------------------------
+Venue: Tivoli Vredenburg
+Location: 
+Date: 6/15/2020
+
+------------------------- Incubus ----------------------------
+Venue: LuxExpo The Box
+Location: 
+Date: 6/16/2020
+
+
+
+Executing concert-this with song option: Incubus
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Birmingham
+Location: Birmingham
+Date: 6/4/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Apollo Manchester
+Location: Manchester
+Date: 6/5/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Glasgow
+Location: Glasgow
+Date: 6/6/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Location: London
+Date: 6/8/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Location: London
+Date: 6/9/2020
+
+------------------------- Incubus ----------------------------
+Venue: Greenfield Festival
+Location: Interlaken
+Date: 6/11/2020
+
+------------------------- Incubus ----------------------------
+Venue: Porsche Arena
+Location: Stuttgart
+Date: 6/12/2020
+
+------------------------- Incubus ----------------------------
+Venue: I-Days Festival
+Location: Rho
+Date: 6/13/2020
+
+------------------------- Incubus ----------------------------
+Venue: Tivoli Vredenburg
+Location: Utrecht
+Date: 6/15/2020
+
+------------------------- Incubus ----------------------------
+Venue: LuxExpo The Box
+Location: Luxembourg
+Date: 6/16/2020
+
+
+
+Executing spotify-this-song with song option: Piano Man
+
+-------------------------------------------------------------------
+Artist: Billy Joel
+Song: Piano Man
+Album: Piano Man (Legacy Edition)
+Preview: https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ
+-------------------------------------------------------------------
+
+Executing movie-this with song option: Tommy Boy
+
+--------------------------------------------------------------
+Title: Tommy Boy
+Release Year: 1995
+IMDB Rating: 7.1/10
+Rotten Tomatoes Rating: 42%
+Producted in: USA
+Languages: English
+Plot: After his auto-parts tycoon father dies, the overweight, underachieving son teams up with a snide accountant to try and save the family business.
+Actors: Chris Farley, David Spade, Brian Dennehy, Bo Derek
+--------------------------------------------------------------
+
+Executing concert-this with song option: Incubus
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Birmingham
+Location: Birmingham
+Date: 6/4/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Apollo Manchester
+Location: Manchester
+Date: 6/5/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Glasgow
+Location: Glasgow
+Date: 6/6/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Location: London
+Date: 6/8/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Location: London
+Date: 6/9/2020
+
+------------------------- Incubus ----------------------------
+Venue: Greenfield Festival
+Location: Interlaken
+Date: 6/11/2020
+
+------------------------- Incubus ----------------------------
+Venue: Porsche Arena
+Location: Stuttgart
+Date: 6/12/2020
+
+------------------------- Incubus ----------------------------
+Venue: I-Days Festival
+Location: Rho
+Date: 6/13/2020
+
+------------------------- Incubus ----------------------------
+Venue: Tivoli Vredenburg
+Location: Utrecht
+Date: 6/15/2020
+
+------------------------- Incubus ----------------------------
+Venue: LuxExpo The Box
+Location: Luxembourg
+Date: 6/16/2020
+
+
+
+Executing concert-this with song option: Incubus
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Birmingham
+Location: Birmingham
+Date: 6/4/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Apollo Manchester
+Location: Manchester
+Date: 6/5/2020
+
+------------------------- Incubus ----------------------------
+Venue: O2 Academy Glasgow
+Location: Glasgow
+Date: 6/6/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Location: London
+Date: 6/8/2020
+
+------------------------- Incubus ----------------------------
+Venue: Royal Albert Hall
+Location: London
+Date: 6/9/2020
+
+------------------------- Incubus ----------------------------
+Venue: Greenfield Festival
+Location: Interlaken
+Date: 6/11/2020
+
+------------------------- Incubus ----------------------------
+Venue: Porsche Arena
+Location: Stuttgart
+Date: 6/12/2020
+
+------------------------- Incubus ----------------------------
+Venue: I-Days Festival
+Location: Rho
+Date: 6/13/2020
+
+------------------------- Incubus ----------------------------
+Venue: Tivoli Vredenburg
+Location: Utrecht
+Date: 6/15/2020
+
+------------------------- Incubus ----------------------------
+Venue: LuxExpo The Box
+Location: Luxembourg
+Date: 6/16/2020
+
+
+
+Executing concert-this with song option: post+malone
+
+------------------------- post malone ----------------------------
+Venue: Moosburg
+Location: Munich
+Date: 6/13/2020
+
+------------------------- post malone ----------------------------
+Venue: Limestone Festival
+Location: Moosburg An Der Isar
+Date: 6/14/2020
+
+------------------------- post malone ----------------------------
+Venue: Ippodromo SNAI San Siro
+Location: Milano
+Date: 6/17/2020
+
+------------------------- post malone ----------------------------
+Venue: Pinkpop Festival
+Location: Landgraaf
+Date: 6/20/2020
+
+------------------------- post malone ----------------------------
+Venue: PARQUE DA BELAVISTA
+Location: Lisbon
+Date: 6/21/2020
+
+------------------------- post malone ----------------------------
+Venue: Tinderbox Festival
+Location: Odense
+Date: 6/25/2020
+
+------------------------- post malone ----------------------------
+Venue: Lollapalooza Festival
+Location: Stockholm
+Date: 6/26/2020
+
+------------------------- post malone ----------------------------
+Venue: Rock In Rio Lisbon
+Location: Lisbon
+Date: 6/28/2020
+
+------------------------- post malone ----------------------------
+Venue: Glasgow Green
+Location: Glasgow
+Date: 6/30/2020
+
+------------------------- post malone ----------------------------
+Venue: BST Hyde Park
+Location: London
+Date: 7/2/2020
+
+
+
+Executing movie-this with song option: interstellar
+
+--------------------------------------------------------------
+Title: Interstellar
+Release Year: 2014
+IMDB Rating: 8.6/10
+Rotten Tomatoes Rating: 72%
+Producted in: USA, UK, Canada
+Languages: English
+Plot: A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+Actors: Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow
+--------------------------------------------------------------
+
+Executing movie-this with song option: avengers infinity war
+
+--------------------------------------------------------------
+Title: Avengers: Infinity War
+Release Year: 2018
+IMDB Rating: 8.5/10
+Rotten Tomatoes Rating: 85%
+Producted in: USA
+Languages: English
+Plot: The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.
+Actors: Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans
+--------------------------------------------------------------
+
+Executing spotify-this-song with song option: batcountry
+
+-------------------------------------------------------------------
+Artist: Avenged Sevenfold
+Song: Bat Country
+Album: City of Evil
+Preview: https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7
+-------------------------------------------------------------------
+
+Executing spotify-this-song with song option: piano man
+
+-------------------------------------------------------------------
+Artist: Billy Joel
+Song: Piano Man
+Album: Piano Man (Legacy Edition)
+Preview: https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ
+-------------------------------------------------------------------
+

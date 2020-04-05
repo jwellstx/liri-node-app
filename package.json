@@ -8,9 +8,6 @@
     "core-util-is": "^1.0.2",
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
-    "inquirer": "^7.1.0",
-    "jQuery": "^1.7.4",
-    "jquery": "^3.4.1",
     "moment": "^2.24.0",
     "node-spotify-api": "^1.1.1",
     "request": "^2.88.2"

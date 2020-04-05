@@ -19,7 +19,7 @@ var fs = require('fs');
 
 // Grab our LIRI arguments
 var action = process.argv[2];
-var argument = process.argv[3];
+var argument = process.argv.splice(3).join(" ");
 
 
 switch (action) {
@@ -62,7 +62,12 @@ function concert_this(artist) {
             for (var x = 0; x < response.body.length && x < 10; x++) {  // reduce max to 10 entries 
                 output += "------------------------- " + artist.replace("+", " ") + " ----------------------------\n";
                 output += "Venue: " + response.body[x].venue.name + "\n";
-                output += "Location: " + response.body[x].venue.city + ", " + response.body[x].venue.region + "\n";
+                if (response.body[x].venue.region) {
+                    output += "Location: " + response.body[x].venue.city + ", " + response.body[x].venue.region + "\n";
+                }
+                else {
+                    output += "Location: " + response.body[x].venue.city + "\n";
+                }
                 output += "Date: " + moment(response.body[x].datetime).format("M/D/YYYY") + "\n\n";
             }
             output += "\n\n";
