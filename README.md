@@ -12,7 +12,7 @@ Some other libraries that were used in developing this application were [fs](htt
 
 ## Demo
 
-![Commandline](/images/liri.gif) 
+![LIRI Demo](/images/liri.gif) 
 
 <br /><br />
 
@@ -31,7 +31,7 @@ SPOTIFY_SECRET=your-spotify-secret
    2. Request movie information using: `node liri.js movie-this Interstellar`
    3. Find your favorite bands tour dates and venues using: `node liri.js concert-this Incubus`
    4. Execute multiple commands from random.txt using: `node liri.js do-what-it-says`
-       1. To enable this feature, add your commands in random.txt as such.
+      1. To enable this feature, add your commands in random.txt as such.
        
 ```
 spotify-this-song,"I Want it That Way"
@@ -50,3 +50,22 @@ movie-this,"Tommy Boy"
    5. Lastly, all commands and their outputs are logged in `log.txt`
 
 <br /><br />
+
+## Additonal Images
+<br />
+# movie-this
+
+![movie-this](/images/movie-this.PNG)
+<br />
+# spotify-this-song
+
+![spotify-this-song](/images/spotify-this-song.PNG)
+<br />
+# concert-this
+
+![concert-this](images/concert-this.PNG)
+<br />
+# do-what-it-says
+
+![do-what-it-says](/images/do-what-it-says.PNG)
+<br />
