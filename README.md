@@ -42,7 +42,7 @@ movie-this,"Tommy Boy"
 <br /><br />
 
 ## Code Structure
-1. `liri.js` will first take in all arguments and process the action argument and will respectively call either `concert_this`, `spotify_this_song`, `movie_this` or `do_what_it_says`.
+1. `liri.js` will first take in all arguments and process the action argument in `pickAction` function and will respectively call either `concert_this`, `spotify_this_song`, `movie_this` or `do_what_it_says`.
    1. `concert_this` function uses a mixture of `request` library and the Bands In Town API to query the band name and return a response.  The response is then parsed and printed to the console of all tour dates and locations.
    2. `spotify_this_song` function utilizes the `node-spotify-api` npm to query the spotify API and return song information which is then display in the console.
    3. `movie_this` function is similar to the conert function except that is utilizes the OMDB API and a different HTTP protocol called `axios` which is another npm package.
