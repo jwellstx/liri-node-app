@@ -21,22 +21,25 @@ var fs = require('fs');
 var action = process.argv[2];
 var argument = process.argv.splice(3).join(" ");
 
+pickAction();
 
-switch (action) {
-    case "concert-this":
-        concert_this(argument);
-        break;
-    case "spotify-this-song":
-        spotify_this_song(argument);
-        break;
-    case "movie-this":
-        movie_this(argument);
-        break;
-    case "do-what-it-says":
-        do_what_it_says();
-        break;
-    default:
-        console.log(action + " is not a valid option! Please try again.");
+function pickAction() {
+    switch (action) {
+        case "concert-this":
+            concert_this(argument);
+            break;
+        case "spotify-this-song":
+            spotify_this_song(argument);
+            break;
+        case "movie-this":
+            movie_this(argument);
+            break;
+        case "do-what-it-says":
+            do_what_it_says();
+            break;
+        default:
+            console.log(action + " is not a valid option! Please try again.");
+    }
 }
 
 function concert_this(artist) {
@@ -51,11 +54,9 @@ function concert_this(artist) {
 
         if (err) {
             output += "An error occuring using the Node request library with error code " + err + "\n";
-            return;
         }
-        else if (response.body.errorMessage || !response.body.length) {
-            output += "There were not results found for this band!!" + "\n";
-            return;
+        else if (response.body.errorMessage || response.body.length === 0) {
+            output += "There were not results found for this band!!\n";
         }
         else {
             output += "Executing concert-this with song option: " + artist + "\n\n";
@@ -95,7 +96,6 @@ function spotify_this_song(song) {
         if (err) {
             output += "An error occuring using the Node Spotify library with error code " + err + "\n";
             output += "Mostly likely this song doens't exist.  Are you making things up?\n";
-            return;
         }
         else {
             output += "Executing spotify-this-song with song option: " + song + "\n\n";
@@ -129,7 +129,6 @@ function movie_this(movie) {
             var output = "";
             if (response.data.Response === "False" && response.data.Error) {
                 output += "No movies found related to that title!\n";
-                return;
             }
             else {
                 output += "Executing movie-this with song option: " + movie + "\n\n";
