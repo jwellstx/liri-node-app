@@ -17,13 +17,15 @@ var moment = require('moment');
 var axios = require('axios');
 var fs = require('fs');
 
-// Grab our LIRI arguments
-var action = process.argv[2];
-var argument = process.argv.splice(3).join(" ");
 
-pickAction();
+pickAction(process.argv[2], process.argv.splice(3).join(" "));
 
-function pickAction() {
+function pickAction(action, argument) {
+    /*
+        Purpose: Take in arguments and depending on action, use switch case to call
+                 the correct fuction;
+        Input: action and argument
+    */
     switch (action) {
         case "concert-this":
             concert_this(argument);
@@ -43,6 +45,13 @@ function pickAction() {
 }
 
 function concert_this(artist) {
+    /*
+        Purpose: take provided artist and call the bands in town API using 
+                 the request npm.  Print the results to console.  Also do 
+                 some error checking incase something goes wrong.
+        Input: artist name
+    */
+
     if (!artist) {
         artist = "Post Malone";
     }
@@ -73,6 +82,7 @@ function concert_this(artist) {
             }
             output += "\n\n";
         }
+        // Log everything to the console as well as the log.txt file
         console.log(output);
         fs.appendFile("log.txt", output, err => {
             if (err) {
@@ -83,6 +93,12 @@ function concert_this(artist) {
 }
 
 function spotify_this_song(song) {
+    /*
+        Purpose: Take the input song and using node-spotify-api npm package
+                to request the song information and print it the details.
+                Perform some error checking on the response.
+        Input: song name
+    */
     if (!song) {
         song = "The Sign";
     }
@@ -106,6 +122,7 @@ function spotify_this_song(song) {
             output += "Preview: " + data.tracks.items[0].external_urls.spotify + "\n";
             output += "-------------------------------------------------------------------\n\n";
         }
+        // Log everything to the console and log.txt
         console.log(output);
         fs.appendFile("log.txt", output, err => {
             if (err) {
@@ -116,6 +133,12 @@ function spotify_this_song(song) {
 }
 
 function movie_this(movie) {
+    /*
+        Purpose: Take the movie name and call the OMDB API using the axios npm
+                 and then print the information to the console.  Also do some
+                 error checking.
+        Input: movie name
+    */
     var rating;
     var rating_found = false;
 
@@ -157,6 +180,7 @@ function movie_this(movie) {
                 output += "Actors: " + response.data.Actors + "\n";
                 output += "--------------------------------------------------------------\n\n";
             }
+            // Log everything to the console and the log.txt
             console.log(output);
             fs.appendFile("log.txt", output, err => {
                 if (err) {
@@ -171,6 +195,12 @@ function movie_this(movie) {
 }
 
 function do_what_it_says() {
+    /*
+        Purpose: use the fs package to read in the random.txt file, parse the file
+                 for the actions and arguments and then call the corresponding
+                 function for each one.  
+        Input: random.txt
+    */
     fs.readFile("random.txt", "utf8", (error, data) => {
         if (error) {
             return console.log("Something went wrong here. Error is: " + error);
