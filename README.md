@@ -6,7 +6,7 @@
 ## Overview
 The purpose of this application is to provide a commandline interpreter which takes in a users request to either search for a songs information using the [Spotify](https://www.npmjs.com/package/node-spotify-api) npm, query for movie details using the [OMDB](http://www.omdbapi.com/) API, or lastly search for a users favorite band and return all the artists up and coming tour dates and venues using the [Bands in Town](https://www.artists.bandsintown.com/login) API. 
 
-Some other libraries that were used in developing this application were [fs](https://www.npmjs.com/package/fs), [axios](https://www.npmjs.com/package/axios), [request](https://www.npmjs.com/package/request), and [moment](https://www.npmjs.com/package/moment).
+Some other libraries that were used in developing this application were [fs](https://www.npmjs.com/package/fs), [axios](https://www.npmjs.com/package/axios), [request](https://www.npmjs.com/package/request),  [moment](https://www.npmjs.com/package/moment) and [terminalizer](https://terminalizer.com/) to record the demo below.
 
 <br /><br />
 
